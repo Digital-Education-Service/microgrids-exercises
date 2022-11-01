@@ -1,5 +1,5 @@
-About
-=====
+Exercises and Examples for course Renewable Energy: Sustainable Electricity Supply with Microgrids
+==================================================================================================
 
 These are the data and exercises needed to run the exercises for the course `Renewable Energy: Sustainable Electricity Supply with Microgrids <https://www.futurelearn.com/courses/renewable-energy-sustainable-electricity-supply-with-microgrids>`_.
 
